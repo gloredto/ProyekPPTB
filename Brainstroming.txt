@@ -1,0 +1,12 @@
+List Ide untuk PTTB :
+  1. Fintech
+  2. Move Monitoring
+  3. Tag and Note it! Map
+ 
+E-Loan Apps yang memungkinkan penggunanya untuk memberikan pinjaman uang atau meminta pinjaman uang. Peminjam dapat mengumumkan dana yang dia butuhkan, dan pemberi pinjaman dapat memberikan tenggat waktu yang diinginkan kepada peminjam untuk mengembalikan uang tersebut. Pemberi pinjaman dapat memberikan jumlah uang sebesar apapun. Peminjam dapat meminta pinjaman kepada lebih dari satu orang.
+
+Contoh kasus : Klid mengumumkan di beranda akunnya bahwa membutuhkan uang 100.000. Mke melihat beranda Klid yang membutuhkan uang 100.000 kemudian memberikan pinjaman sebesar 20.000 dari saldo akunnya, Untuk uang sisanya (80.000), Klid harus menunggu pinjaman dari akun lain. Mke meberikan tenggat waktu selama seminggu. Jika Klid tidak mengembalikan uang sesuai tenggat waktu yang ditetapkan Mke maka poin reputasi akun Khalid akan berkurang. Sebaliknya jika Klid mengembalikan uang lebih cepat dari tenggat, maka poin reputasinya bertambah.
+
+Poin reputasi yang baik dapat meningkatakan kepercayaan dari akun-akun yang lain untuk memberikan pinjaman kepada Klid. Jika Klid tidak mengembalikan pinjaman lebih dari sebulan setelah tenggat waktu, maka pengelola aplikasi harus melaporkan kasus penipuan ke pihak yang berwajib. Namun sebaliknya. Jika Klid mampu mebayar, maka dia hanya perlu top-up 20.000 ke akunnya melalui transfer bank atau ke kantor pengelola aplikasi terdekat. Otomatis saldo pada akun Klid akan langsung ditransfer ke M**ke
+
+Pengelola aplikasi, dapat menjual data reputasi ini ke pihak ketiga (Bank, Pegadaian, dll) untuk dijadikan bahan pertimbangan.
