@@ -1,3 +1,3 @@
 # ProyekPPTB
 Tugas untuk mata kuliah PPTB
-Mike and Khalid YES
+Mike and Khalid
